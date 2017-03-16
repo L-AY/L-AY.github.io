@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Under Construction
-email: your-email@domain.com
+title: Hacker-ifed
+email: 
 description: > # this means to ignore newlines until "baseurl:"
-  This page is under construction.
+  A blog focused on sharing sub-sections of a journey experimenting with various web technologies. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: github
-github_username:  github
+twitter_username: 
+github_username:  
 
 # Build settings
 markdown: kramdown
